@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="title_medicine_name">What should we remind you about?</string>
+    <string name="hint_enter_med_name">e.g. Team meeting, call Mom, study</string>
+    <string name="medicine_days">Repeat</string>
+    <string name="title_reminder">Time</string>
+    <string name="new_medicine">New Reminder</string>
+    <string name="every_day">Every day</string>
+    <string name="no_medicine_added">Your day is clear</string>
+    <string name="loading_tasks_error">Could not load reminders</string>
+    <string name="successfully_saved_me_message">Reminder saved</string>
+    <string name="successfully_deleted_message">Reminder deleted</string>
+    <string name="reminder_message">Reminder due</string>
+    <string name="edit">Edit reminder</string>
+    <string name="delete_reminder">Delete reminder</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="choose_time">Choose a time</string>
+    <string name="repeat_hint">Choose the days this reminder repeats</string>
+    <string name="save_reminder">Save reminder</string>
+    <string name="today_label">TODAY</string>
+    <string name="upcoming_label">YOUR REMINDERS</string>
+    <string name="empty_subtitle">Create a reminder and let the app keep you on track.</string>
+    <string name="reminder_saved_format">%1$s is scheduled</string>
+    <string name="reminder_updated_format">%1$s updated</string>
+    <string name="default_reminder_title">Reminder</string>
+    <string name="delete_reminder_title">Delete reminder?</string>
+    <string name="delete_reminder_message">Are you sure you want to delete "%1$s"? This will remove the reminder and its scheduled alarms.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="reminder_updated_title">Reminder updated</string>
+    <string name="reminder_updated_message">"%1$s" has been updated successfully.</string>
+    <string name="ok">OK</string>
+</resources>

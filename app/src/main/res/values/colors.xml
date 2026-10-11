@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#172126</color>
+    <color name="colorAccent">#00BFA6</color>
+    <color name="color_light_grey">#66727A</color>
+    <color name="surface">#F6F8F9</color>
+    <color name="surfaceCard">#FFFFFF</color>
+    <color name="textPrimary">#172126</color>
+    <color name="textSecondary">#66727A</color>
+    <color name="mint">#DFF8F3</color>
+    <color name="mintStrong">#00A98F</color>
+    <color name="coral">#FF6B5F</color>
+    <color name="lavender">#EEEAFE</color>
+    <color name="line">#E4EAEC</color>
+    <drawable name="touchFeedback">#DDE6E9</drawable>
+</resources>
